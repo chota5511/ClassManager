@@ -1,0 +1,15 @@
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\bin\Debug\ReportDSSV.dll.config
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\bin\Debug\ReportDSSV.dll
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\bin\Debug\ReportDSSV.pdb
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\bin\Debug\Telerik.Reporting.dll
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\bin\Debug\Telerik.Reporting.pdb
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\bin\Debug\Telerik.Reporting.xml
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.csprojResolveAssemblyReference.cache
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.ReportChi.resources
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.ReportDSSV.resources
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.ReportThu.resources
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.csproj.GenerateResource.Cache
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.dll.licenses
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.csproj.CoreCompileInputs.cache
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.dll
+C:\Users\chota5511\source\repos\ClassManager\ReportDSSV\obj\Debug\ReportDSSV.pdb

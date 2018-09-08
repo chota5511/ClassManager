@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassManager", "ClassManager\ClassManager.csproj", "{5803B1D3-2DBB-4602-AC98-B8D29F695243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportDSSV", "ReportDSSV\ReportDSSV.csproj", "{83E63DB0-A854-47DC-9F71-5677B9D93BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5803B1D3-2DBB-4602-AC98-B8D29F695243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5803B1D3-2DBB-4602-AC98-B8D29F695243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5803B1D3-2DBB-4602-AC98-B8D29F695243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5803B1D3-2DBB-4602-AC98-B8D29F695243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E63DB0-A854-47DC-9F71-5677B9D93BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E63DB0-A854-47DC-9F71-5677B9D93BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E63DB0-A854-47DC-9F71-5677B9D93BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E63DB0-A854-47DC-9F71-5677B9D93BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B23CE38-2B3E-4E86-8405-CC542A65E6FD}
+	EndGlobalSection
+EndGlobal
